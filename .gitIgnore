@@ -1,0 +1,8 @@
+node_modules
+.next
+.next/*
+yarn.lock
+yarn-error.log
+.vscode
+.build
+.build/
